@@ -1,0 +1,9 @@
+{
+    "name": "mechanicum",
+    "version": "0.0.1",
+    "title": "mechanicum",
+    "author": "denis.learns.to.haunt",
+    "description": "Take on the role of an Adept of the Mechanicum tasked with founding new Forge Worlds for the glory of the Imperium.",
+    "factorio_version": "2.0.1",
+    "dependencies": []
+  }
